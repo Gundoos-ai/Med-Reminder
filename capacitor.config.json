@@ -1,0 +1,6 @@
+{
+  "appId": "com.myapp.medicinereminder",
+  "appName": "ঔষধ রিমাইন্ডার",
+  "webDir": "www",
+  "plugins": { "LocalNotifications": { "smallIcon": "ic_launcher", "iconColor": "#0F8B6D" } }
+}
